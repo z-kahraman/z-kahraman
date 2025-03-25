@@ -69,4 +69,4 @@ I am currently focused on **scalable API monitoring solutions, real-time data in
 
 
 ## 👁️ Profile Views
-![Profile Views](https://github-profile-counter.onrender.com/badge?page_id=zkben)
+![Profile Views](https://github-profile-counter.onrender.com/badge?page_id=zkben&t=1)

@@ -70,4 +70,4 @@ I am currently focused on **scalable API monitoring solutions, real-time data in
 
 ## 👁️ Profile Views
 
-![](https://githubprofilecounter-production.up.railway.app/badge?page_id=z-kahraman&t=1)
+![](https://komarev.com/ghpvc/?username=z-kahraman)

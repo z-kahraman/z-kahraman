@@ -67,6 +67,7 @@ I am currently focused on **scalable API monitoring solutions, real-time data in
   <a href="https://github.com/z-kahraman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+
 ## 👁️ Profile Views
 
-[View Counter](https://githubprofilecounter-production.up.railway.app/badge?page_id=z-kahraman&t=1)
+![View Counter](https://githubprofilecounter-production.up.railway.app/badge?page_id=z-kahraman&t=1)

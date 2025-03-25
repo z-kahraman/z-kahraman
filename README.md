@@ -69,4 +69,4 @@ I am currently focused on **scalable API monitoring solutions, real-time data in
 
 
 ## 👁️ Profile Views
-![](https://github-profile-counter.onrender.com/badge?page_id=z-kahraman&t=1123213)
+![Profile Views](https://komarev.com/ghpvc/?username=z-kahraman&color=blue&style=flat)

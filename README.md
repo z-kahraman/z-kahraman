@@ -69,8 +69,4 @@ I am currently focused on **scalable API monitoring solutions, real-time data in
 
 
 ## 👁️ Profile Views
-<a href="https://github.com/z-kahraman">
-  <img src="https://githubprofilecounter-production.up.railway.app/badge?page_id=z-kahraman&t=1" alt="View Counter">
-</a>
-
-![View Counter](https://githubprofilecounter-production.up.railway.app/badge?page_id=z-kahraman)
+![Profile Views](https://komarev.com/ghpvc/?username=z-kahraman&color=blue&style=flat)

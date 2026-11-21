@@ -27,7 +27,7 @@ I follow the ecosystem closely and go to community events such as Google Develop
 
 **In progress (private for now):**
 
-- **SvartNav**: a custom handlebar navigation display for my Husqvarna Svartpilen 250, in the spirit of Beeline. ESP32 with a round display; the phone calculates the route and sends turn instructions over BLE
+- **SvartNav**: a small, modular handlebar navigation device for bicycles and motorcycles. ESP32 with a round display; the phone calculates the route and sends turn instructions over BLE
 - **RoboPilot**: an experiment in running UiPath and Robusta bots through a local AI agent in natural language, with policy checks, approvals and an audit log
 
 **Up next:**
@@ -45,4 +45,4 @@ Happy to swap notes on agentic automation, AI + RPA, or FDE. Reach me on [Linked
 
 Mekatronik mühendisiyim. **RPA geliştirici** olarak süreç otomasyonu yapıyorum. Aralık 2024'ten beri RAG sistemleri, LLM'ler ve ajanlarla (Claude, OpenAI, Devin) uygulamalar geliştiriyor, yapay zekanın RPA ile nasıl birlikte çalışabileceğini ve sınırlarının nerede olduğunu deneyerek öğreniyorum.
 
-En sevdiğim proje, izlediğim YouTube içeriklerini kayıt altına alan ve dijital ikizimin ilk parçası olan **youtube-to-sheets**. Boş zamanlarımda Svartpilen 250 motosikletim için ESP32 tabanlı bir navigasyon cihazı yapıyorum. Ajanlarla otomasyon, AI + RPA ve forward deployed engineering konularında fikir alışverişine her zaman açığım.
+En sevdiğim proje, izlediğim YouTube içeriklerini kayıt altına alan ve dijital ikizimin ilk parçası olan **youtube-to-sheets**. Bisiklet ve motosikletler için ESP32 tabanlı, küçük ve modüler bir navigasyon cihazı geliştiriyorum. Ajanlarla otomasyon, AI + RPA ve forward deployed engineering konularında fikir alışverişine her zaman açığım.

@@ -14,7 +14,7 @@ I automate business processes for a living and spend the rest of my time figurin
 - **Forward deployed engineering**: building AI solutions on site, inside real customer workflows
 - **Hardware**: ESP32 projects, where my mechatronics background comes back in
 
-I follow the ecosystem closely and go to events like Google Developer Days and Claude and Devin events.
+I follow the ecosystem closely and go to community events such as Google Developer Days and meetups around Claude and Devin.
 
 ## Projects
 
@@ -30,6 +30,11 @@ I follow the ecosystem closely and go to events like Google Developer Days and C
 - **SvartNav**: a custom handlebar navigation display for my Husqvarna Svartpilen 250, in the spirit of Beeline. ESP32 with a round display; the phone calculates the route and sends turn instructions over BLE
 - **RoboPilot**: an experiment in running UiPath and Robusta bots through a local AI agent in natural language, with policy checks, approvals and an audit log
 
+**Up next:**
+
+- **watch-memory**: the second piece of the digital twin. Turns everything I've saved with youtube-to-sheets into a searchable memory I can ask questions, with answers that link to the exact second of the source video
+- **bot-vs-agent**: the same business process solved by a deterministic RPA-style bot and by an LLM agent, measured on success rate, cost and resilience to UI changes
+
 ## Let's talk
 
 Happy to swap notes on agentic automation, AI + RPA, or FDE. Reach me on [LinkedIn](https://www.linkedin.com/in/zafer-kahraman).
@@ -38,6 +43,6 @@ Happy to swap notes on agentic automation, AI + RPA, or FDE. Reach me on [Linked
 
 ### 🇹🇷 Türkçe
 
-Mekatronik mühendisiyim. Şu an **Unoda RPA geliştirici** olarak süreç otomasyonu yapıyorum. Aralık 2024'ten beri RAG sistemleri, LLM'ler ve ajanlarla (Claude, OpenAI, Devin) uygulamalar geliştiriyor, yapay zekanın RPA ile nasıl birlikte çalışabileceğini ve sınırlarının nerede olduğunu deneyerek öğreniyorum.
+Mekatronik mühendisiyim. Şu an **Uno'da RPA geliştirici** olarak süreç otomasyonu yapıyorum. Aralık 2024'ten beri RAG sistemleri, LLM'ler ve ajanlarla (Claude, OpenAI, Devin) uygulamalar geliştiriyor, yapay zekanın RPA ile nasıl birlikte çalışabileceğini ve sınırlarının nerede olduğunu deneyerek öğreniyorum.
 
 En sevdiğim proje, izlediğim YouTube içeriklerini kayıt altına alan ve dijital ikizimin ilk parçası olan **youtube-to-sheets**. Boş zamanlarımda Svartpilen 250 motosikletim için ESP32 tabanlı bir navigasyon cihazı yapıyorum. Ajanlarla otomasyon, AI + RPA ve forward deployed engineering konularında fikir alışverişine her zaman açığım.

@@ -31,7 +31,7 @@ I follow the ecosystem closely and go to events like Google Developer Days and C
 
 | Project | What it is | Stack |
 |---|---|---|
-| [youtube-to-sheets](https://github.com/z-kahraman/youtube-to-sheets) | The first piece of my "digital twin": a browser extension that logs every YouTube video I watch, with notes, tags and watch progress, to Google Sheets. [On Firefox Add-ons](https://addons.mozilla.org/firefox/addon/youtube-to-sheets/) | JavaScript, Google Sheets API |
+| [youtube-to-sheets](https://github.com/z-kahraman/youtube-to-sheets) | The first piece of my "digital twin": a browser extension that saves the YouTube videos I watch, with notes, tags and watch progress, to Google Sheets. [On Firefox Add-ons](https://addons.mozilla.org/firefox/addon/youtube-to-sheets/) | JavaScript, Google Sheets API |
 | [rag_knowledge_kernel](https://github.com/z-kahraman/rag_knowledge_kernel) | Local RAG system for querying PDFs in English and Turkish | LangChain, FAISS, Ollama, Streamlit |
 | [smart-expense-tracker](https://github.com/z-kahraman/smart-expense-tracker) | Personal expense tracker with a Telegram bot, receipt OCR and AI category suggestions | FastAPI, PostgreSQL, OpenAI |
 | [medium](https://github.com/z-kahraman/medium) | Code that accompanies my Medium articles | Python |

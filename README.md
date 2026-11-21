@@ -1,72 +1,42 @@
-# Hi 👋, I'm z-kahraman
+# Zafer Kahraman
+
+**RPA & AI Automation Consultant** · Istanbul
+
+I help companies decide what to automate, then build it: RPA bots, AI agents, and the data plumbing between them. Before consulting I was an RPA developer and business analyst, and later team lead, automating finance and operations processes on SAP, IFS and Excel-heavy workflows.
+
+<a href="https://www.linkedin.com/in/zafer-kahraman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://medium.com/@zafer_kahraman"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+
+## What I work on
+
+- **RPA**: UiPath, Robusta RPA. Process discovery, PDD/SDD, bot development, CoE tooling
+- **AI agents**: LLM-driven agents that operate RPA bots and business systems, local models with Ollama, RAG
+- **Backend & data**: Python, FastAPI, PostgreSQL, SQL Server, Oracle, ETL pipelines
+- **Small products**: browser extensions, Telegram bots, Next.js tools
+
+## Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [youtube-to-sheets](https://github.com/z-kahraman/youtube-to-sheets) | Browser extension that saves YouTube videos with notes, tags and watch progress to Google Sheets. [On Firefox Add-ons](https://addons.mozilla.org/firefox/addon/youtube-to-sheets/) | JavaScript, Google Sheets API |
+| [smart-expense-tracker](https://github.com/z-kahraman/smart-expense-tracker) | Personal expense tracker with a Telegram bot, receipt OCR and AI category suggestions | FastAPI, PostgreSQL, OpenAI |
+| [rag_knowledge_kernel](https://github.com/z-kahraman/rag_knowledge_kernel) | Local RAG system for querying PDFs in English and Turkish | LangChain, FAISS, Ollama, Streamlit |
+| [medium](https://github.com/z-kahraman/medium) | Code that accompanies my Medium articles | Python |
+
+**Private work** (code not public, happy to demo):
+
+- **RoboPilot**: a local AI agent and CoE dashboard that manages UiPath and Robusta bots in natural language, with policy checks, approvals and an audit log
+- **RPA Readiness Test**: a 5-minute assessment that scores a company's automation readiness and suggests which processes to automate first (Next.js, Supabase, Claude API)
+- **SvartNav**: a handlebar navigation display for my motorcycle. ESP32 with a round display, routes sent from the phone over BLE
+
+## Writing
+
+I write about automation, data engineering and AI agents on [Medium](https://medium.com/@zafer_kahraman).
 
 ---
 
-🚀 **AI & Data Engineer | Former RPA Developer & Business Analyst Team Lead**  
-💡 Working on **Data Engineering, AI Agents, and Automation Systems**  
-🔍 Researching and developing **ETL Pipelines, FastAPI, Kafka, and AI-driven solutions**
+### 🇹🇷 Türkçe
 
----
+İstanbul'da **RPA ve yapay zeka otomasyonu danışmanıyım**. Şirketlerin neyi otomatikleştireceğine birlikte karar veriyor, sonra bunu hayata geçiriyorum: RPA botları (UiPath, Robusta), yapay zeka ajanları ve bunları birbirine bağlayan veri altyapısı. Danışmanlıktan önce RPA geliştirici ve iş analisti, ardından takım lideri olarak SAP, IFS ve Excel ağırlıklı finans ve operasyon süreçlerini otomatikleştirdim.
 
-## 🎯 About Me
-I started my career as an **RPA Developer & Business Analyst**, focusing on **automating business processes and optimizing workflows**. Over time, I took on additional responsibilities as a **Team Lead**, managing projects and leading automation initiatives.  
-
-In **December 2024, I left my job** to fully dedicate myself to learning and developing in **Data Engineering and AI Agents**.
-
----
-
-## 🛠️ Technologies & Expertise
-
-### 🔹 Core Expertise
-- **Robusta RPA, SQL (MySQL, MSSQL, PostgreSQL, Oracle)**
-- **Excel, VBA, SAP, SAP BW, Excel Analysis, IFS**
-- **API Development (REST, SOAP), JavaScript, Python, Bash, Power BI**
-
-### 🚀 Currently Learning & Developing
-- **Data Engineering Tools:** ETL Pipelines, FastAPI, Spark, Kafka, Airflow
-- **AI & Automation:** AI Agents, LLMs, Machine Learning, AI-driven automation
-- **Real-Time Systems:** Developing scalable data workflows and real-time data processing architectures
-
----
-
-## 📝 What I’m Working On
-For the past few months, I have been actively working on projects in:
-
-✅ **Python, ETL, FastAPI, AI Agents, LLM, Data Workflows, Real-Time Pipelines, Spark, and Kafka**
-
-📌 **I also share my work and experiences on Medium.** Check out my articles here:  
-🔗 [Medium Profile](https://medium.com/@zafer_kahraman)
-
----
-
-## 🚀 Areas of Interest
-### 🤖 Robotic Process Automation (RPA)
-Automating repetitive tasks and improving business workflows using AI and scripting technologies.
-
-### 📊 Data Engineering
-Building ETL pipelines, optimizing data storage, and implementing real-time data processing solutions with modern tools.
-
-### 🧠 AI Agents
-Developing AI-powered assistants for automation, decision-making, and intelligent workflow optimization.
-
----
-
-## 📌 Future Plans
-I am currently focused on **scalable API monitoring solutions, real-time data ingestion, and AI-driven automation**. My goal is to integrate AI capabilities into workflow automation, making processes smarter and more efficient.
-
-**If you are working on similar topics or have suggestions and insights, I’d love to connect and exchange knowledge!**
-
-📌 [LinkedIn Profile](https://www.linkedin.com/in/zafer-kahraman/)
-
----
-
-## 🌍 Let's Connect!
-<div align="center">
-  <a href="https://www.linkedin.com/in/zafer-kahraman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@zafer_kahraman"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/z-kahraman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-
-## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=z-kahraman&color=blue&style=flat)
+Bir otomasyon projeniz varsa [LinkedIn](https://www.linkedin.com/in/zafer-kahraman) üzerinden yazabilirsiniz.

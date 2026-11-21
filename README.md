@@ -28,11 +28,9 @@ I follow the ecosystem closely and go to community events such as Google Develop
 **In progress (private for now):**
 
 - **SvartNav**: a small, modular handlebar navigation device for bicycles and motorcycles. ESP32 with a round display; the phone calculates the route and sends turn instructions over BLE
-- **RoboPilot**: an experiment in running UiPath and Robusta bots through a local AI agent in natural language, with policy checks, approvals and an audit log
 
-**Up next:**
+**Planned, starting in the coming weeks:**
 
-- **watch-memory**: the second piece of the digital twin. Turns everything I've saved with youtube-to-sheets into a searchable memory I can ask questions, with answers that link to the exact second of the source video
 - **bot-vs-agent**: the same business process solved by a deterministic RPA-style bot and by an LLM agent, measured on success rate, cost and resilience to UI changes
 
 ## Let's talk

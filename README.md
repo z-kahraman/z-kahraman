@@ -1,6 +1,6 @@
 # Zafer Kahraman
 
-**RPA Developer at Uno** · Mechatronics engineer · Istanbul
+**RPA Developer** · Mechatronics engineer · Istanbul
 
 I automate business processes for a living and spend the rest of my time figuring out what AI agents can add to that work, and where their limits are. I'm most interested in the space where RPA and LLM agents meet.
 
@@ -43,6 +43,6 @@ Happy to swap notes on agentic automation, AI + RPA, or FDE. Reach me on [Linked
 
 ### 🇹🇷 Türkçe
 
-Mekatronik mühendisiyim. Şu an **Uno'da RPA geliştirici** olarak süreç otomasyonu yapıyorum. Aralık 2024'ten beri RAG sistemleri, LLM'ler ve ajanlarla (Claude, OpenAI, Devin) uygulamalar geliştiriyor, yapay zekanın RPA ile nasıl birlikte çalışabileceğini ve sınırlarının nerede olduğunu deneyerek öğreniyorum.
+Mekatronik mühendisiyim. **RPA geliştirici** olarak süreç otomasyonu yapıyorum. Aralık 2024'ten beri RAG sistemleri, LLM'ler ve ajanlarla (Claude, OpenAI, Devin) uygulamalar geliştiriyor, yapay zekanın RPA ile nasıl birlikte çalışabileceğini ve sınırlarının nerede olduğunu deneyerek öğreniyorum.
 
 En sevdiğim proje, izlediğim YouTube içeriklerini kayıt altına alan ve dijital ikizimin ilk parçası olan **youtube-to-sheets**. Boş zamanlarımda Svartpilen 250 motosikletim için ESP32 tabanlı bir navigasyon cihazı yapıyorum. Ajanlarla otomasyon, AI + RPA ve forward deployed engineering konularında fikir alışverişine her zaman açığım.

@@ -1,42 +1,54 @@
 # Zafer Kahraman
 
-**RPA & AI Automation Consultant** · Istanbul
+**RPA Developer at Uno** · Mechatronics engineer · Istanbul
 
-I help companies decide what to automate, then build it: RPA bots, AI agents, and the data plumbing between them. Before consulting I was an RPA developer and business analyst, and later team lead, automating finance and operations processes on SAP, IFS and Excel-heavy workflows.
+I automate business processes for a living and spend the rest of my time figuring out what AI agents can add to that work, and where their limits are. I'm most interested in the space where RPA and LLM agents meet.
 
 <a href="https://www.linkedin.com/in/zafer-kahraman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@zafer_kahraman"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
 
-## What I work on
+## Path
 
-- **RPA**: UiPath, Robusta RPA. Process discovery, PDD/SDD, bot development, CoE tooling
-- **AI agents**: LLM-driven agents that operate RPA bots and business systems, local models with Ollama, RAG
-- **Backend & data**: Python, FastAPI, PostgreSQL, SQL Server, Oracle, ETL pipelines
-- **Small products**: browser extensions, Telegram bots, Next.js tools
+| When | What |
+|---|---|
+| Jul 2026 – now | **RPA Developer, Uno**: building and running RPA processes |
+| May 2025 – Jul 2026 | **Senior RPA Consultant, Vakko** |
+| Dec 2024 – May 2025 | **Independent AI work**: RAG systems and agent-based applications |
+| Before | RPA developer & business analyst, later team lead, automating finance and operations processes on SAP, IFS and Excel |
 
-## Selected projects
+Since December 2024 I've been building and experimenting with LLMs and agent tooling (Claude, OpenAI, Devin) alongside my day job.
+
+## What I'm exploring
+
+- **AI × RPA**: how agents and bots should split the work, and where a deterministic bot is still the better answer
+- **Agents in real business processes**: tool use, approvals, audit trails, local models
+- **Forward deployed engineering**: building AI solutions on site, inside real customer workflows
+- **Hardware**: ESP32 projects, where my mechatronics background comes back in
+
+I follow the ecosystem closely and go to events like Google Developer Days and Claude and Devin events.
+
+## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [youtube-to-sheets](https://github.com/z-kahraman/youtube-to-sheets) | Browser extension that saves YouTube videos with notes, tags and watch progress to Google Sheets. [On Firefox Add-ons](https://addons.mozilla.org/firefox/addon/youtube-to-sheets/) | JavaScript, Google Sheets API |
-| [smart-expense-tracker](https://github.com/z-kahraman/smart-expense-tracker) | Personal expense tracker with a Telegram bot, receipt OCR and AI category suggestions | FastAPI, PostgreSQL, OpenAI |
+| [youtube-to-sheets](https://github.com/z-kahraman/youtube-to-sheets) | The first piece of my "digital twin": a browser extension that logs every YouTube video I watch, with notes, tags and watch progress, to Google Sheets. [On Firefox Add-ons](https://addons.mozilla.org/firefox/addon/youtube-to-sheets/) | JavaScript, Google Sheets API |
 | [rag_knowledge_kernel](https://github.com/z-kahraman/rag_knowledge_kernel) | Local RAG system for querying PDFs in English and Turkish | LangChain, FAISS, Ollama, Streamlit |
+| [smart-expense-tracker](https://github.com/z-kahraman/smart-expense-tracker) | Personal expense tracker with a Telegram bot, receipt OCR and AI category suggestions | FastAPI, PostgreSQL, OpenAI |
 | [medium](https://github.com/z-kahraman/medium) | Code that accompanies my Medium articles | Python |
 
-**Private work** (code not public, happy to demo):
+**In progress (private for now):**
 
-- **RoboPilot**: a local AI agent and CoE dashboard that manages UiPath and Robusta bots in natural language, with policy checks, approvals and an audit log
-- **RPA Readiness Test**: a 5-minute assessment that scores a company's automation readiness and suggests which processes to automate first (Next.js, Supabase, Claude API)
-- **SvartNav**: a handlebar navigation display for my motorcycle. ESP32 with a round display, routes sent from the phone over BLE
+- **SvartNav**: a custom handlebar navigation display for my Husqvarna Svartpilen 250, in the spirit of Beeline. ESP32 with a round display; the phone calculates the route and sends turn instructions over BLE
+- **RoboPilot**: an experiment in running UiPath and Robusta bots through a local AI agent in natural language, with policy checks, approvals and an audit log
 
-## Writing
+## Let's talk
 
-I write about automation, data engineering and AI agents on [Medium](https://medium.com/@zafer_kahraman).
+Happy to swap notes on agentic automation, AI + RPA, or FDE. Reach me on [LinkedIn](https://www.linkedin.com/in/zafer-kahraman).
 
 ---
 
 ### 🇹🇷 Türkçe
 
-İstanbul'da **RPA ve yapay zeka otomasyonu danışmanıyım**. Şirketlerin neyi otomatikleştireceğine birlikte karar veriyor, sonra bunu hayata geçiriyorum: RPA botları (UiPath, Robusta), yapay zeka ajanları ve bunları birbirine bağlayan veri altyapısı. Danışmanlıktan önce RPA geliştirici ve iş analisti, ardından takım lideri olarak SAP, IFS ve Excel ağırlıklı finans ve operasyon süreçlerini otomatikleştirdim.
+Mekatronik mühendisiyim. Şu an **Unoda RPA geliştirici** olarak süreç otomasyonu yapıyorum. Öncesinde Vakkoda senior RPA consultant olarak çalıştım. Aralık 2024'ten beri RAG sistemleri, LLM'ler ve ajanlarla (Claude, OpenAI, Devin) uygulamalar geliştiriyor, yapay zekanın RPA ile nasıl birlikte çalışabileceğini ve sınırlarının nerede olduğunu deneyerek öğreniyorum.
 
-Bir otomasyon projeniz varsa [LinkedIn](https://www.linkedin.com/in/zafer-kahraman) üzerinden yazabilirsiniz.
+En sevdiğim proje, izlediğim YouTube içeriklerini kayıt altına alan ve dijital ikizimin ilk parçası olan **youtube-to-sheets**. Boş zamanlarımda Svartpilen 250 motosikletim için ESP32 tabanlı bir navigasyon cihazı yapıyorum. Ajanlarla otomasyon, AI + RPA ve forward deployed engineering konularında fikir alışverişine her zaman açığım.
